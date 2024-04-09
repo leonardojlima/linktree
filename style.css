@@ -203,6 +203,7 @@ footer ion-icon {
     --bg-url: url(./assets/bg-desktop-light.jpg);
   }
 }
+
 @keyframes slide-in {
   from {
     left: 0;
